@@ -5,7 +5,7 @@
         class="modified">
             <v-card-text class="container">
                 <h1 class="text-center mt-5" style="font-family: 'Exo';font-size: 50px;">Attractions</h1>
-                <h3 class="text-center mt-5 overline">Spot your favorite spot!</h3>
+                <h3 class="text-center mt-5 overline">Spot your favorite spot</h3>
                 <p class="text-center pa-5">
 
                 Our number one goal is to make sure visitors have the time of their lives. We offer fun activities for visitors of all ages. Our slides are enough to unleash your inner child — and ensure that you have an unforgettable experience.
